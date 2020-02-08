@@ -1,5 +1,5 @@
 ---
-name: YouTube Feature Request
+name: YouTube Plus Feature Request
 about: Suggest an idea for the tweak
 title: ''
 labels: ''
