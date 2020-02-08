@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 **Describe the bug**
-What is the bug exactly and how many does it appear?
+What is the bug exactly and how many times does it appear?
 
 **To Reproduce**
 What should I do to get the bug?
