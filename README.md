@@ -2,13 +2,13 @@
 
 YouTubePlus - A tweak to add or customize features for YouTube.
 
-YouTubePlus by [@shiar_ahmed](https://twitter.com/shiar_ahmed)
+YouTubePlus by [@ShiarDev](https://twitter.com/ShiarDev)
 
 YouTubePlus uses libCSPreferences library for Settings, which makes the settings more beautiful. Thanks to [@CreatureSurvive](https://twitter.com/CreatureSurvive) for the libCSPreferences library!
 
 Requires Cydia Substrate from Bingner or Substitue from Electra/Chimera, libCSPreferences from CreatureCoding or BigBoss and PreferenceLoader and RocketBootstrap from Ryan Petrich's Repo
 
-Available on shiarahmed.xrepo.co
+Available on shiardev.github.io
 
 Supports from iOS 10.0 - 13.3.1
 
